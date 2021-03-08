@@ -1,9 +1,9 @@
 
-![logo](assets/images/icon.png)
+![logo](assets/images/im_tracker_rounded_logo.png)
 # imTracker
 Determine whether lifestyle factors might be associated with daily outcomes.
 
-![demo](assets/gifs/demo.gif)
+![demo](assets/gifs/im_tracker_demo.gif)
 
 ## :pencil: How to Use 
 **Step 1:**
